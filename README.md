@@ -6,12 +6,6 @@
 ![](https://streak-stats.demolab.com/?user=X0242&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=X0242&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=X0242&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=X0242&icon=8&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **X0242/X0242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
