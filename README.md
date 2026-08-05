@@ -1,26 +1,146 @@
-# 💻 Tech Stack
+<div align="center">
 
-### Languages & Core Tech
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+[Your+Name]+%F0%9F%91%8B;Welcome+to+my+creative+space!;Building+things+for+the+web+and+beyond!;&&multiline=true" alt="Typing SVG" />
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+<br/>
 
-### Design & Editing
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+<!-- 3D Profile Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+</a>
+
+<br/>
+<br/>
+
+### 👨‍💻 About Me
+🔭 I’m currently working on **exciting new projects**  
+🌱 I’m currently learning **advanced system design & 3D web animations**  
+💡 I love experimenting with **Cloud Architecture and UI/UX Design**  
+📫 How to reach me: **your.email@example.com**
+
+<br/>
+
+---
+
+### 🚀 My Tech Stack
+
+<!-- Languages -->
+<p><b>Languages & Core</b></p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" /><br/><sub><b>Swift</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" /><br/><sub><b>PowerShell</b></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Cloud -->
+<p><b>Cloud & Infrastructure</b></p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br/><sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub><b>Cloudflare</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" /><br/><sub><b>Heroku</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Terminal" /><br/><sub><b>Terminal</b></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Design -->
+<p><b>Design & Editing</b></p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br/><sub><b>Canva</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /><br/><sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" /><br/><sub><b>Premiere Pro</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" /><br/><sub><b>After Effects</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 GitHub Analytics
+
+<!-- 2-Column Stats Layout -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-3d-contrib.a34.workers.dev/u/YOUR_GITHUB_USERNAME?theme=dracula" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<br/>
+
+---
+
+### 🤝 Let's Connect
+
+<!-- Socials using SkillIcons -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio-website.com">
+  <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" />
+</a>
+
+</div>
