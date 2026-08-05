@@ -1,45 +1,33 @@
 <div align="center">
 
-<pre>
-██████████████████████████████████████████████████████████████████████
->_ SYSTEM ALIGNMENT SECURE. 
->_ ESTABLISHING UPLINK TO NODE: X0242
-</pre>
-
-<!-- Operator Avatar -->
-<img src="photo_2026-07-11_12-45-33.jpg" width="280" alt="OPERATOR_AVATAR" />
-
-<br/>
-<br/>
-
-<!-- Terminal Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=>_USER:+X+(%40X0242)+//+STATUS:+ONLINE;>_CLASS:+Software+Engineer+%7C+Cyber-Architect;>_OBJ:+High-Performance+Systems+%26+3D+Constructs;>_SYS.READ()+...+AWAITING_INPUT;&&multiline=true" alt="Typing SVG" />
+<!-- Cyber-Themed Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=System+Uplink+Established:+X+(%40X0242);Software+Engineer+%7C+Cloud+Architect+%7C+3D+Technologist;Engineering+High-Performance+Systems+%26+Visual+Constructs;Awaiting+Input...&&multiline=true" alt="Typing SVG" />
 
 <br/>
 <p align="center">
-  <code>[ // NATIVE SYSTEMS // CLOUD MAINFRAMES // PROCEDURAL GEOMETRY // ]</code>
+  <b>[ NATIVE SYSTEMS // CLOUD ARCHITECTURE // PROCEDURAL 3D GEOMETRY // DEVOPS ]</b>
 </p>
 
 </div>
 
 ---
 
-## ░▒▓ 01. NEURAL PROFILE & DIRECTIVES
+## 🌐 01. Professional Overview & Directives
 
-> **`[SYS_LOG]`** Authenticated as **Senior Systems Architect & Creative Technologist**. Primary operational vectors include low-level systems execution, decentralized cloud infrastructure, and real-time 3D visual computing.
+> **`[PROFILE_SUMMARY]`** Authenticated as a **Senior Systems Architect & Creative Technologist**. My work bridges the gap between machine-level performance optimization and high-fidelity visual mechanics.
 
-I operate at the intersection of machine-level performance and high-fidelity visual mechanics. By bridging compiled native languages (C++, Java) with modern dynamic web tooling (TypeScript, Python) and industrial rendering engines (Blender), I engineer systems that are both mathematically precise and visually striking.
+I operate at the intersection of low-level backend engineering and digital media production. By uniting compiled native languages (C++, Java) with dynamic web tooling (TypeScript, Python) and industrial 3D engines (Blender), I engineer systems that are both mathematically precise and visually compelling.
 
-* ⚡ **Core Subroutines**: Low-latency execution patterns, object-oriented framework design, serverless cloud orchestration, procedural 3D modeling pipelines.
-* 🛡️ **Operational Directives**: Zero-waste compute cycles, decoupled module architecture, deterministic data flow, and seamless human-machine interface design.
+* ⚡ **Core Engineering Vectors**: Low-latency execution patterns, object-oriented framework design, serverless cloud orchestration, and procedural 3D modeling pipelines.
+* 🛡️ **Operational Philosophy**: Zero-waste compute cycles, decoupled modular architecture, deterministic data flow, and seamless human-machine interface design.
 
 <br/>
 
 ---
 
-## ░▒▓ 02. HARDWARE / SOFTWARE LOADOUT
+## ⚙️ 02. Technical Ecosystem & Loadout
 
-### <code>[MOD_01]</code> CORE RUNTIMES & SYNTAX
+### 💻 Core Runtimes & Syntax
 <table>
   <tr>
     <td align="center" width="105">
@@ -66,7 +54,7 @@ I operate at the intersection of machine-level performance and high-fidelity vis
   </tr>
 </table>
 
-### <code>[MOD_02]</code> DISTRIBUTED CLOUD NETWORKS
+### ☁️ Distributed Cloud Networks & Infrastructure
 <table>
   <tr>
     <td align="center" width="105">
@@ -93,7 +81,7 @@ I operate at the intersection of machine-level performance and high-fidelity vis
   </tr>
 </table>
 
-### <code>[MOD_03]</code> 3D CONSTRUCTS & VISUAL FX
+### 🎨 3D Constructs, Design & Visual FX
 <table>
   <tr>
     <td align="center" width="105">
@@ -121,7 +109,49 @@ I operate at the intersection of machine-level performance and high-fidelity vis
 
 ---
 
-## ░▒▓ 03. SYSTEM ARCHITECTURE PROTOCOLS
+## 🏗️ 03. Core Engineering & Architecture Protocols
+
+### 1. Air-Gapped Interface Boundaries
+I design software with strict decoupling between business logic, data transport, and presentation layers. This modularity ensures zero-downtime swapping of underlying cloud providers or rendering backends. Code is contained, highly cohesive, and resistant to cascading failures.
+
+### 2. Static Type Reinforcement
+Utilizing strong static typing (C++, Java, TypeScript) to identify and eliminate memory leaks, null reference errors, and concurrency race conditions at compile-time. *If it compiles, it executes flawlessly.*
+
+### 3. Programmatic Render Automation
+Bypassing manual GUI interactions for repetitive tasks. I utilize Python APIs inside Blender and ExtendScript in After Effects to drive headless batch rendering, procedural asset updates, and algorithmic camera path generation.
+
+<br/>
+
+---
+
+## 🔒 04. DevOps, CI/CD & Security Posture
+
+| Operational Layer | Implementation Details | Key Technologies |
+| :--- | :--- | :--- |
+| **Continuous Integration** | Automated unit testing, syntax linting, and compile-checks triggered on every commit to the main branch. | GitHub Actions, Shell Scripting |
+| **Infrastructure as Code (IaC)** | Declarative provisioning of cloud resources to eliminate environment drift between staging and production. | AWS CloudFormation, Terraform |
+| **Edge Security & Routing** | Implementation of strict WAF (Web Application Firewall) rules, rate limiting, and DDoS mitigation at the edge node. | Cloudflare, AWS Shield |
+| **Secret Management** | Isolated environment variables and encrypted key vaults, ensuring zero hard-coded credentials in the repository. | AWS Secrets Manager, .env pipelines |
+
+<br/>
+
+---
+
+## 🎬 05. Virtual Construct Pipeline (3D / VFX)
 
 ```text
-root@X0242:~# cat /protocols/engineering_methodologies.sys
+[ INITIATING PRODUCTION SEQUENCE ]
+  │
+  ├── [ PHASE_01 ] WIREFRAME & UI MAPPING
+  │    ├── Toolset: Figma, Canva, Photoshop
+  │    └── Action: Vector layout, precision texture mapping, and UI/UX prototyping.
+  │
+  ├── [ PHASE_02 ] PROCEDURAL GEOMETRY & SHADING
+  │    ├── Toolset: Blender, Python Scripting API
+  │    └── Action: Hard-surface generation, node-based material rigs, 
+  │                automated UV mapping, and headless .gltf batch exports.
+  │
+  └── [ PHASE_03 ] POST-PROCESS & ENCODING
+       ├── Toolset: After Effects, Premiere Pro
+       └── Action: Node-based compositing, dynamic keyframe expressions,
+                   high-bitrate HEVC encoding, and cloud asset deployment.
