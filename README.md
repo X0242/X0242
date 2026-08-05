@@ -3,31 +3,22 @@
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
 &lt;!-- ║  CYBER TYPING HEADER                                        ║ --&gt;
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-&lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=System+Uplink+Established:+X+(%40X0242);Software+Engineer+%7C+Cloud+Architect+%7C+3D+Technologist;Engineering+High-Performance+Systems+%26+Visual+Constructs;Awaiting+Input..." alt="Typing SVG" /&gt;
+&lt;img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=System+Uplink+Established:+X+(%40X0242);Software+Engineer+%7C+Cloud+Architect+%7C+3D+Technologist;Engineering+High-Performance+Systems+%26+Visual+Constructs;Awaiting+Input...&&multiline=true" alt="Typing SVG" /&gt;
 
 &lt;br&gt;&lt;br&gt;
 
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-&lt;!-- ║  CIRCULAR PROFILE PIC + STATUS DOT                          ║ --&gt;
+&lt;!-- ║  CIRCULAR PROFILE PIC + STATUS DOT (PRE-BAKED)              ║ --&gt;
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td align="center"&gt;
-      &lt;!-- Circular DP with cyan ring --&gt;
-      &lt;img src="./x.jpg" width="190" height="190" style="border-radius: 50%; border: 3px solid #00FFFF; box-shadow: 0 0 25px rgba(0,255,255,0.3);" alt="X0242" /&gt;
-      &lt;br&gt;&lt;br&gt;
-      &lt;!-- Status Dot Badge --&gt;
-      &lt;img src="https://img.shields.io/badge/🟢-ONLINE-00FFFF?style=flat-square&labelColor=0d1117&color=00FFFF" alt="Status" /&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+&lt;img src="./x-profile-dot.png" width="200" alt="X0242 Profile" /&gt;
 
 &lt;br&gt;
 
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
-&lt;!-- ║  METRICS BADGES                                             ║ --&gt;
+&lt;!-- ║  STATUS & METRICS BADGES                                    ║ --&gt;
 &lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
 &lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/●-ONLINE-00FFFF?style=flat-square&labelColor=0d1117&color=00FFFF" alt="Status" /&gt;
   &lt;img src="https://komarev.com/ghpvc/?username=X0242&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" /&gt;
   &lt;img src="https://img.shields.io/github/followers/X0242?color=00FFFF&label=FOLLOWERS&style=flat-square" /&gt;
   &lt;img src="https://badges.pufler.dev/years/X0242?color=00FFFF&style=flat-square&label=YEARS" /&gt;
