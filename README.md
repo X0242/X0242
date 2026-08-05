@@ -1,125 +1,59 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+X+%F0%9F%91%8B;Welcome+to+my+creative+space!;Building+things+for+the+web+and+beyond!;&&multiline=true" alt="Typing SVG" />
+<!-- Centered Header -->
+<h1>Hi there, I'm X 👋</h1>
+
+<p>
+  <b>Building modern applications, cloud solutions, and 3D experiences.</b>
+</p>
 
 <br/>
 
-<!-- 3D Profile Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-</a>
-
-<br/>
-<br/>
+</div>
 
 ### 👨‍💻 About Me
-🔭 I’m currently working on **exciting new projects**  
-🌱 I’m currently learning **advanced system design & 3D web animations**  
-💡 I love experimenting with **Cloud Architecture and UI/UX Design**
-
-<br/>
+- 🔭 I’m currently working on **exciting new web & 3D projects**
+- 🌱 I’m currently learning **advanced system design & 3D web rendering**
+- 💡 I love experimenting with **Cloud Architecture, 3D modeling, and UI/UX**
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack
 
-<!-- Languages -->
-<p><b>Languages & Core</b></p>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" /><br/><sub><b>Swift</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" /><br/><sub><b>PowerShell</b></sub>
-    </td>
-  </tr>
-</table>
+#### 💻 Programming Languages & Core
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-<!-- Cloud -->
-<p><b>Cloud & Infrastructure</b></p>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br/><sub><b>Google Cloud</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub><b>Cloudflare</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" /><br/><sub><b>Heroku</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Terminal" /><br/><sub><b>Terminal</b></sub>
-    </td>
-  </tr>
-</table>
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<!-- Design & 3D -->
-<p><b>3D, Design & Editing</b></p>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br/><sub><b>Blender</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/><sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br/><sub><b>Canva</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /><br/><sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" /><br/><sub><b>Premiere Pro</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" /><br/><sub><b>After Effects</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+#### 🎨 3D, Design & Video Editing
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
-<!-- 2-Column Stats Layout -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-3d-contrib.a34.workers.dev/u/YOUR_GITHUB_USERNAME?theme=dracula" alt="3D Contribution Graph" width="100%" />
-</p>
+<!-- Note: Replace 'YOUR_GITHUB_USERNAME' with your actual username below -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 
 </div>
