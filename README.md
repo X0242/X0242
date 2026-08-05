@@ -3,11 +3,6 @@
 <!-- Cyber-Themed Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=System+Uplink+Established:+X+(%40X0242);Software+Engineer+%7C+Cloud+Architect+%7C+3D+Technologist;Engineering+High-Performance+Systems+%26+Visual+Constructs;Awaiting+Input...&&multiline=true" alt="Typing SVG" />
 
-<br/>
-<p align="center">
-  <b>[ NATIVE SYSTEMS // CLOUD ARCHITECTURE // PROCEDURAL 3D GEOMETRY // DEVOPS ]</b>
-</p>
-
 </div>
 
 ---
