@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+[Your+Name]+%F0%9F%91%8B;Welcome+to+my+creative+space!;Building+things+for+the+web+and+beyond!;&&multiline=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+X+%F0%9F%91%8B;Welcome+to+my+creative+space!;Building+things+for+the+web+and+beyond!;&&multiline=true" alt="Typing SVG" />
 
 <br/>
 
@@ -16,8 +16,7 @@
 ### 👨‍💻 About Me
 🔭 I’m currently working on **exciting new projects**  
 🌱 I’m currently learning **advanced system design & 3D web animations**  
-💡 I love experimenting with **Cloud Architecture and UI/UX Design**  
-📫 How to reach me: **your.email@example.com**
+💡 I love experimenting with **Cloud Architecture and UI/UX Design**
 
 <br/>
 
@@ -81,10 +80,13 @@
   </tr>
 </table>
 
-<!-- Design -->
-<p><b>Design & Editing</b></p>
+<!-- Design & 3D -->
+<p><b>3D, Design & Editing</b></p>
 <table>
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br/><sub><b>Blender</b></sub>
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/><sub><b>Figma</b></sub>
     </td>
@@ -119,28 +121,5 @@
 <p align="center">
   <img src="https://github-readme-3d-contrib.a34.workers.dev/u/YOUR_GITHUB_USERNAME?theme=dracula" alt="3D Contribution Graph" width="100%" />
 </p>
-
-<br/>
-
----
-
-### 🤝 Let's Connect
-
-<!-- Socials using SkillIcons -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
-&nbsp;&nbsp;
-<a href="https://your-portfolio-website.com">
-  <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" />
-</a>
 
 </div>
